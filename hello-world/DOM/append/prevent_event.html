@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+
+    </head>
+    <body>
+        <a href="https://learn.utcode.net/docs/browser-apps/class/">リンク</a>
+        <script>
+            function confirmLink(event){
+                if(confirm('ページ遷移しますか？')){
+                    console.log('実行');
+                }else{
+                    event.preventDefault();
+                    console.log('キャンセル');
+                }
+            }
+
+            const link = document.querySelector('a');
+            link.addEventListener('click',confirmLink);
+        </script>
+    </body>
+</html>

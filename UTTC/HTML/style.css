@@ -1,0 +1,107 @@
+/* body {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+}
+
+.circle {
+width: 200px;
+height: 200px;
+background-color: red;
+border-radius: 50%;
+} */
+
+/* body {
+  margin: 0;
+  position: relative;
+  height: 100vh;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+
+/* 
+body {
+  margin: 0;
+  position: relative;
+  height: 100vh;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+} */
+
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+/* 
+Q2の回答
+
+◯他にとり得る実装方法（赤丸をdiv要素、親要素をbody要素とする）
+・div要素を絶対位置指定（position: absolute;）にして、body要素の四辺に対して top: 0; right: 0; bottom: 0; left: 0; で配置、margin: auto; とする。（以下のコードは変更点のみ）
+
+body {
+  position: relative;
+}
+
+.circle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+・div要素を絶対位置指定（position: absolute;）にして、 top: 50%; left: 50%; transform: translate(-50%, -50%) とする。
+
+body {
+  position: relative;
+}
+
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+・bosy要素に display: grid; と place-items: center;
+
+body {
+  display: grid;
+  place-items: center;
+}
+.circle {
+  border-radius: 50%;
+} */
