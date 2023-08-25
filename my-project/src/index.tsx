@@ -11,6 +11,7 @@ import Page from "./components/ContextSample";
 import Counter2 from "./components/ReducerSample";
 import { UsemomoSample } from "./components/UseMemoSample";
 import { Clock } from "./components/Clock";
+import ImageUploadApp from "./components/useRef";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
@@ -25,6 +26,7 @@ root.render(
     <Counter2 initialValue={0} />
     <UsemomoSample />
     <Clock />
+    <ImageUploadApp />
   </React.StrictMode>
 );
 
