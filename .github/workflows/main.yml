@@ -1,0 +1,18 @@
+name: CI
+
+on: 
+  push:
+    paths:
+      - 'ut/fizzbuzz.go'
+      - 'ut/fizzbuzz_test.go'
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Run Unit Tests
+      run: go test ./ut -v
