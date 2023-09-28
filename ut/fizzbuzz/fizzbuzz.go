@@ -13,8 +13,8 @@ func FizzBuzz(numbers []int) []string {
 
 	for _, n := range numbers {
 		switch { // if文を使って記述しても良い
-		case isNotPositive(n):
-			result = appendNum(result, n)
+		// case isNotPositive(n):
+		// 	result = appendNum(result, n)
 
 		// write isFizzBuzz
 		case isFizzBuzz(n):
@@ -38,7 +38,7 @@ func appendNum(s []string, n int) []string { return append(s, strconv.Itoa(n)) }
 // write isFizzBuzz
 func isFizzBuzz(n int) bool { return n%3 == 0 && n%5 == 0 }
 
-func isNotPositive(n int) bool { return n <= 0 }
+// func isNotPositive(n int) bool { return n <= 0 }
 
 func main() {
 	ret := FizzBuzz([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20})
