@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfcefff3-5a52-44b6-82ad-fd349dc18816" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/../hello-world/hello_world.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/hello_world.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/Clock.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/ContainerSample.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/ContextSample.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/Name.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/ReducerSample.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/UseMemoSample.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/components/useRef.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts-2/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/Form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-ts/my-app-ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app-firebase/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript_learn/parameter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript_learn/parameter.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///opt/homebrew/opt/go/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2UuaV4xBiK2gfCvxltyDXaBYAP6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/aoi/myProject/GolandProjects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
